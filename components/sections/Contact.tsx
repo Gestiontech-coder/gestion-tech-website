@@ -15,7 +15,7 @@ export function Contact() {
     e.preventDefault();
     const subject = encodeURIComponent(`Solicitud de auditoría — ${name}`);
     const body = encodeURIComponent(`${message}\n\n${email}`);
-    window.location.href = `mailto:contacto@gestiontech.cl?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:contacto@gestion-tech.cl?subject=${subject}&body=${body}`;
   }
 
   return (
@@ -36,14 +36,7 @@ export function Contact() {
               className="flex items-center gap-2.5 text-paper-0 hover:text-signal-300"
             >
               <Mail className="h-4 w-4" strokeWidth={1.75} />
-              contacto@gestiontech.cl
-            </a>
-            <a
-              href="tel:+56220000000"
-              className="flex items-center gap-2.5 text-paper-0 hover:text-signal-300"
-            >
-              <Phone className="h-4 w-4" strokeWidth={1.75} />
-              +56 2 2000 0000
+              contacto@gestion-tech.cl
             </a>
           </div>
         </Reveal>
