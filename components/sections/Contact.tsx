@@ -32,7 +32,7 @@ export function Contact() {
           <div className="mt-10 space-y-4 border-t border-line-dark pt-6 font-mono text-sm">
             <p className="text-paper-100/60">{t("directLabel")}</p>
             <a
-              href="mailto:contacto@gestiontech.cl"
+              href="mailto:contacto@gestion-tech.cl"
               className="flex items-center gap-2.5 text-paper-0 hover:text-signal-300"
             >
               <Mail className="h-4 w-4" strokeWidth={1.75} />
