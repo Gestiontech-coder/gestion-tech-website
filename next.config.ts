@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   output: "export",
 
   images: {
-    formats: ["image/avif", "image/webp"],
+    unoptimized: true,
   },
 };
 
