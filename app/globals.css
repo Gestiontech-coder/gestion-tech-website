@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+:root {
+  --navy-950: #0a1730;
+  --navy-900: #0e2148;
+  --navy-800: #142d5c;
+  --brand-600: #14449a;
+  --brand-500: #1a5fc7;
+  --signal-400: #1f8dff;
+  --signal-300: #63b3ff;
+  --signal-200: #a9d6ff;
+
+  --paper-0: #ffffff;
+  --paper-50: #f1f4f8;
+  --paper-100: #e7ecf3;
+
+  --ink-900: #0b1220;
+  --ink-700: #33415a;
+  --ink-500: #5c6b85;
+
+  --line: rgba(11, 18, 32, 0.12);
+  --line-dark: rgba(169, 214, 255, 0.16);
+
+  --good-500: #2aa876;
+  --alert-500: #e2574c;
+  --amber-400: #f2a93b;
+}
+
+@theme inline {
+  --color-navy-950: var(--navy-950);
+  --color-navy-900: var(--navy-900);
+  --color-navy-800: var(--navy-800);
+  --color-brand-600: var(--brand-600);
+  --color-brand-500: var(--brand-500);
+  --color-signal-400: var(--signal-400);
+  --color-signal-300: var(--signal-300);
+  --color-signal-200: var(--signal-200);
+
+  --color-paper-0: var(--paper-0);
+  --color-paper-50: var(--paper-50);
+  --color-paper-100: var(--paper-100);
+
+  --color-ink-900: var(--ink-900);
+  --color-ink-700: var(--ink-700);
+  --color-ink-500: var(--ink-500);
+
+  --color-line: var(--line);
+  --color-line-dark: var(--line-dark);
+
+  --color-good-500: var(--good-500);
+  --color-alert-500: var(--alert-500);
+  --color-amber-400: var(--amber-400);
+
+  --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper-0);
+  color: var(--ink-900);
+  font-family: var(--font-display), ui-sans-serif, system-ui, sans-serif;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.tabular-figures {
+  font-variant-numeric: tabular-nums;
+}

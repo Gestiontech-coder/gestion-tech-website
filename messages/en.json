@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Gestión Tech | Telecommunications technical audits",
+    "description": "Site acceptance verification, power density measurement and on-site audits for telecommunications infrastructure across Chile."
+  },
+  "nav": {
+    "services": "Services",
+    "coverage": "Coverage",
+    "about": "Regulations",
+    "contact": "Contact",
+    "cta": "Request an audit"
+  },
+  "hero": {
+    "headline": "Technical certainty for telecommunications infrastructure.",
+    "subhead": "We measure, verify and audit telecommunications infrastructure across Chile.",
+    "ctaPrimary": "Request an audit",
+    "ctaSecondary": "See services"
+  },
+  "services": {
+    "heading": "Services",
+    "intro": "Three lines of technical work, one standard of rigor in every report.",
+    "items": {
+      "recepciones": {
+        "title": "Site Acceptance Reviews",
+        "description": "Technical verification of telecommunications infrastructure to ensure regulatory compliance in new installations.",
+        "metric": "Compliance for new installations"
+      },
+      "densidad": {
+        "title": "Power Density Measurement",
+        "description": "Power density measurement across all frequency bands, anywhere in Chile.",
+        "metric": "All bands · Nationwide"
+      },
+      "auditoria": {
+        "title": "On-Site Audits",
+        "description": "On-site technical inspection to validate compliance with regulatory standards and operating conditions.",
+        "metric": "In-situ inspection"
+      }
+    }
+  },
+  "coverage": {
+    "heading": "Coverage and regulations",
+    "body": "We work with calibrated measurement equipment and qualified technical staff able to deploy from north to south, delivering reports backed by Supreme Decree No. 281/2001 and current SUBTEL resolutions.",
+    "bannerAlt": "Gestión Tech technical vehicle next to a telecommunications tower",
+    "bannerCaption": "On site, anywhere in Chile.",
+    "point1Title": "Nationwide coverage",
+    "point1Body": "Technical teams ready to deploy to any region of the country.",
+    "point2Title": "Instrument traceability",
+    "point2Body": "Measurements taken with calibrated equipment and documented end-to-end protocols.",
+    "point3Title": "Regulatory-grade reports",
+    "point3Body": "Results delivered in the format required for submission to the sector authority."
+  },
+  "contact": {
+    "heading": "Let's talk about your project",
+    "body": "Tell us about your installation or the site you need audited. We'll reply with a work plan and estimated timeline.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Tell us what you need",
+    "messagePlaceholder": "Service type, site location, timeline...",
+    "submit": "Send request",
+    "directLabel": "Or write to us directly at",
+    "phoneLabel": "Phone"
+  },
+  "footer": {
+    "tagline": "Telecommunications technical audits across Chile.",
+    "rights": "All rights reserved.",
+    "servicesHeading": "Services",
+    "companyHeading": "Company"
+  }
+}

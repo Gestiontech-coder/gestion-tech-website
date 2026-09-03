@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Gestión Tech | Auditoría técnica de telecomunicaciones",
+    "description": "Recepciones de obra, medición de densidad de potencia y auditoría en terreno para infraestructura de telecomunicaciones en todo Chile."
+  },
+  "nav": {
+    "services": "Servicios",
+    "coverage": "Cobertura",
+    "about": "Normativa",
+    "contact": "Contacto",
+    "cta": "Solicitar auditoría"
+  },
+  "hero": {
+    "headline": "Certeza técnica para infraestructura de telecomunicaciones.",
+    "subhead": "Medimos, verificamos y auditamos infraestructura de telecomunicaciones en todo Chile.",
+    "ctaPrimary": "Solicitar auditoría",
+    "ctaSecondary": "Ver servicios"
+  },
+  "services": {
+    "heading": "Servicios",
+    "intro": "Tres frentes de trabajo técnico, un mismo estándar de rigurosidad en cada informe.",
+    "items": {
+      "recepciones": {
+        "title": "Recepciones de Obra",
+        "description": "Verificación técnica de infraestructura de telecomunicaciones para garantizar el cumplimiento normativo en nuevas instalaciones.",
+        "metric": "Cumplimiento en nuevas instalaciones"
+      },
+      "densidad": {
+        "title": "Densidad de Potencia",
+        "description": "Medición de densidad de potencia en todas las bandas y en todo Chile.",
+        "metric": "Todas las bandas · Todo Chile"
+      },
+      "auditoria": {
+        "title": "Auditoría en Terreno",
+        "description": "Inspección técnica en sitio para validar el cumplimiento de estándares normativos y condiciones de operación.",
+        "metric": "Inspección in situ"
+      }
+    }
+  },
+  "coverage": {
+    "heading": "Cobertura y normativa",
+    "body": "Trabajamos con equipos de medición calibrados y personal técnico habilitado para operar de norte a sur, entregando informes con respaldo normativo bajo el Decreto Supremo N.º 281/2001 y las resoluciones vigentes de SUBTEL.",
+    "bannerAlt": "Camioneta técnica de Gestión Tech junto a una torre de telecomunicaciones",
+    "bannerCaption": "En terreno, en cualquier punto de Chile.",
+    "point1Title": "Cobertura nacional",
+    "point1Body": "Equipos técnicos disponibles para desplegarse en terreno en cualquier región del país.",
+    "point2Title": "Trazabilidad de instrumentos",
+    "point2Body": "Mediciones realizadas con equipos calibrados y protocolos documentados de extremo a extremo.",
+    "point3Title": "Informes con validez normativa",
+    "point3Body": "Resultados presentados en el formato exigido para su presentación ante la autoridad sectorial."
+  },
+  "contact": {
+    "heading": "Hablemos de tu proyecto",
+    "body": "Cuéntanos sobre tu instalación o el sitio que necesitas auditar. Te respondemos con un plan de trabajo y plazos estimados.",
+    "nameLabel": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "emailLabel": "Correo",
+    "emailPlaceholder": "tu@empresa.cl",
+    "messageLabel": "Cuéntanos qué necesitas",
+    "messagePlaceholder": "Tipo de servicio, ubicación del sitio, plazos...",
+    "submit": "Enviar solicitud",
+    "directLabel": "O escríbenos directamente a",
+    "phoneLabel": "Teléfono"
+  },
+  "footer": {
+    "tagline": "Auditoría técnica de telecomunicaciones en todo Chile.",
+    "rights": "Todos los derechos reservados.",
+    "servicesHeading": "Servicios",
+    "companyHeading": "Empresa"
+  }
+}
